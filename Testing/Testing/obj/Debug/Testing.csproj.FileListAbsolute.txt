@@ -1,0 +1,7 @@
+C:\Users\Fiona\source\repos\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\Fiona\source\repos\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\Fiona\source\repos\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\Fiona\source\repos\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\Fiona\source\repos\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Fiona\source\repos\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\Fiona\source\repos\Testing\Testing\obj\Debug\Testing.pdb

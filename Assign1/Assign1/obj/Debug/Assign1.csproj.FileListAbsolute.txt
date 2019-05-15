@@ -1,0 +1,7 @@
+C:\Users\Fiona\source\repos\Assign1\Assign1\bin\Debug\Assign1.exe.config
+C:\Users\Fiona\source\repos\Assign1\Assign1\bin\Debug\Assign1.exe
+C:\Users\Fiona\source\repos\Assign1\Assign1\bin\Debug\Assign1.pdb
+C:\Users\Fiona\source\repos\Assign1\Assign1\obj\Debug\Assign1.csprojResolveAssemblyReference.cache
+C:\Users\Fiona\source\repos\Assign1\Assign1\obj\Debug\Assign1.csproj.CoreCompileInputs.cache
+C:\Users\Fiona\source\repos\Assign1\Assign1\obj\Debug\Assign1.exe
+C:\Users\Fiona\source\repos\Assign1\Assign1\obj\Debug\Assign1.pdb

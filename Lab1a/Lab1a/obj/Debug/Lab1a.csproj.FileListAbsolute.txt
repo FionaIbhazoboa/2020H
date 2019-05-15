@@ -1,0 +1,7 @@
+C:\Users\Fiona\source\repos\Lab1a\Lab1a\obj\Debug\Lab1a.csprojResolveAssemblyReference.cache
+C:\Users\Fiona\source\repos\Lab1a\Lab1a\obj\Debug\Lab1a.csproj.CoreCompileInputs.cache
+C:\Users\Fiona\source\repos\Lab1a\Lab1a\bin\Debug\Lab1a.exe.config
+C:\Users\Fiona\source\repos\Lab1a\Lab1a\bin\Debug\Lab1a.exe
+C:\Users\Fiona\source\repos\Lab1a\Lab1a\bin\Debug\Lab1a.pdb
+C:\Users\Fiona\source\repos\Lab1a\Lab1a\obj\Debug\Lab1a.exe
+C:\Users\Fiona\source\repos\Lab1a\Lab1a\obj\Debug\Lab1a.pdb

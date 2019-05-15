@@ -1,0 +1,7 @@
+c:\users\fiona\source\repos\Assign3_2\Assign3_2\obj\Debug\Assign3_2.csprojResolveAssemblyReference.cache
+c:\users\fiona\source\repos\Assign3_2\Assign3_2\obj\Debug\Assign3_2.csproj.CoreCompileInputs.cache
+c:\users\fiona\source\repos\Assign3_2\Assign3_2\bin\Debug\Assign3_2.exe.config
+c:\users\fiona\source\repos\Assign3_2\Assign3_2\bin\Debug\Assign3_2.exe
+c:\users\fiona\source\repos\Assign3_2\Assign3_2\bin\Debug\Assign3_2.pdb
+c:\users\fiona\source\repos\Assign3_2\Assign3_2\obj\Debug\Assign3_2.exe
+c:\users\fiona\source\repos\Assign3_2\Assign3_2\obj\Debug\Assign3_2.pdb

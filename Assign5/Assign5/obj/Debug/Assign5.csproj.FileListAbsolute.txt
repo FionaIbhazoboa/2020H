@@ -1,0 +1,7 @@
+C:\Users\Fiona\source\repos\Assign5\Assign5\obj\Debug\Assign5.csprojResolveAssemblyReference.cache
+C:\Users\Fiona\source\repos\Assign5\Assign5\obj\Debug\Assign5.csproj.CoreCompileInputs.cache
+C:\Users\Fiona\source\repos\Assign5\Assign5\bin\Debug\Assign5.exe.config
+C:\Users\Fiona\source\repos\Assign5\Assign5\bin\Debug\Assign5.exe
+C:\Users\Fiona\source\repos\Assign5\Assign5\bin\Debug\Assign5.pdb
+C:\Users\Fiona\source\repos\Assign5\Assign5\obj\Debug\Assign5.exe
+C:\Users\Fiona\source\repos\Assign5\Assign5\obj\Debug\Assign5.pdb

@@ -1,0 +1,19 @@
+d:\users\sri\documents\visual studio 2015\Projects\BinarySearchTreeLab\BinarySearchTreeLab\bin\Debug\BinarySearchTreeLab.exe.config
+d:\users\sri\documents\visual studio 2015\Projects\BinarySearchTreeLab\BinarySearchTreeLab\bin\Debug\BinarySearchTreeLab.exe
+d:\users\sri\documents\visual studio 2015\Projects\BinarySearchTreeLab\BinarySearchTreeLab\bin\Debug\BinarySearchTreeLab.pdb
+d:\users\sri\documents\visual studio 2015\Projects\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.csprojResolveAssemblyReference.cache
+d:\users\sri\documents\visual studio 2015\Projects\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.exe
+d:\users\sri\documents\visual studio 2015\Projects\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.pdb
+D:\Users\Sri\ODTU\OD\COIS 2020H S61 2018\BinarySearchTreeLab\BinarySearchTreeLab\BinarySearchTreeLab\bin\Debug\BinarySearchTreeLab.exe.config
+D:\Users\Sri\ODTU\OD\COIS 2020H S61 2018\BinarySearchTreeLab\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.exe
+D:\Users\Sri\ODTU\OD\COIS 2020H S61 2018\BinarySearchTreeLab\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.pdb
+D:\Users\Sri\ODTU\OD\COIS 2020H S61 2018\BinarySearchTreeLab\BinarySearchTreeLab\BinarySearchTreeLab\bin\Debug\BinarySearchTreeLab.exe
+D:\Users\Sri\ODTU\OD\COIS 2020H S61 2018\BinarySearchTreeLab\BinarySearchTreeLab\BinarySearchTreeLab\bin\Debug\BinarySearchTreeLab.pdb
+D:\Users\Sri\ODTU\OD\COIS 2020H S61 2018\BinarySearchTreeLab\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.csprojResolveAssemblyReference.cache
+C:\Users\Fiona\source\repos\BinarySearchTreeLab\BinarySearchTreeLab\bin\Debug\BinarySearchTreeLab.exe.config
+C:\Users\Fiona\source\repos\BinarySearchTreeLab\BinarySearchTreeLab\bin\Debug\BinarySearchTreeLab.exe
+C:\Users\Fiona\source\repos\BinarySearchTreeLab\BinarySearchTreeLab\bin\Debug\BinarySearchTreeLab.pdb
+C:\Users\Fiona\source\repos\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.csprojResolveAssemblyReference.cache
+C:\Users\Fiona\source\repos\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.csproj.CoreCompileInputs.cache
+C:\Users\Fiona\source\repos\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.exe
+C:\Users\Fiona\source\repos\BinarySearchTreeLab\BinarySearchTreeLab\obj\Debug\BinarySearchTreeLab.pdb

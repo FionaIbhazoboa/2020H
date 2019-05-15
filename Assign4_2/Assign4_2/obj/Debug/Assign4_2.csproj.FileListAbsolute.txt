@@ -1,0 +1,7 @@
+C:\Users\Fiona\source\repos\Assign4_2\Assign4_2\obj\Debug\Assign4_2.csprojResolveAssemblyReference.cache
+C:\Users\Fiona\source\repos\Assign4_2\Assign4_2\obj\Debug\Assign4_2.csproj.CoreCompileInputs.cache
+C:\Users\Fiona\source\repos\Assign4_2\Assign4_2\bin\Debug\Assign4_2.exe.config
+C:\Users\Fiona\source\repos\Assign4_2\Assign4_2\bin\Debug\Assign4_2.exe
+C:\Users\Fiona\source\repos\Assign4_2\Assign4_2\bin\Debug\Assign4_2.pdb
+C:\Users\Fiona\source\repos\Assign4_2\Assign4_2\obj\Debug\Assign4_2.exe
+C:\Users\Fiona\source\repos\Assign4_2\Assign4_2\obj\Debug\Assign4_2.pdb
